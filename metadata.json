@@ -1,0 +1,6 @@
+{
+  "name": "CapCut AI Studio - Pro AI Video Editor & 8K Creator",
+  "description": "Professional AI-powered video editing suite with text-to-video generation, multi-language auto-captioning, multitrack drag-and-drop timeline, cloud GPU rendering, advanced templates, and 8K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
